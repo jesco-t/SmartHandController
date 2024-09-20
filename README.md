@@ -1,3 +1,5 @@
+Note: Please do not use this fork. It's just a proof-of-concept for a wireless version of the SHC.
+
 OnStep Smart Hand Controller (SHC)
 ==================================
 
